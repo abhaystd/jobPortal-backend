@@ -1,4 +1,4 @@
-const { type } = require("@testing-library/user-event/dist/type");
+
 const mongoose = require("mongoose");
 const validate = require('validator');
 const { default: isEmail } = require("validator/lib/isEmail");
